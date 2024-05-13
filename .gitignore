@@ -1,0 +1,23 @@
+# Temporary files
+*~
+
+# Object files
+*.o
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+The\ Maze\ Project
+
+# Ubuntu 22.04.3 LTS
+
+# External references
+references
+
+# Test source file
+test.c
